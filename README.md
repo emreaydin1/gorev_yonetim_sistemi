@@ -6,7 +6,7 @@ DASHBOARDS:
 ![](/img/home.png)
 
 PROJECT LİST:
-![](/img/project_list.png)
+![](/img/projectList.png)
 
 TASKS:
 ![](/img/tasks.png)
